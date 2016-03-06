@@ -53,6 +53,7 @@ double combine(point_type a[],int low,int mid,int high,double min_left,double mi
             if(temp<min_D) min_D=temp;
         }
 	printf("WTF\n");
+	exit(1);
     }
     return min_D;
 }
