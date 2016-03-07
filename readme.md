@@ -1,6 +1,7 @@
 #Closest Pair Algorithm Tester
 
 ----
+Use C++ STL
 ## Modules
 1.Random Number Generator
 2.brutal algorithm
